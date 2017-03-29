@@ -1,6 +1,6 @@
 package edu.ycp.cs320.rvandemark.model;
 
-public class Engine {
+public class Engine { //I have no idea what I'm doing
 	
 	private static Admin[] ALL_ADMINS = loadAdmins();
 	private static User USER;
