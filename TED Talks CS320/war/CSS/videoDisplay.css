@@ -1,0 +1,61 @@
+@CHARSET "ISO-8859-1";
+
+#page_border {
+	width: 100%;
+	height: 80px;
+	background: #095825;
+	margin: 0px;
+}
+
+#york_logo {
+	float: right;
+	width: 80px;
+	height: 80px;
+}
+
+#ted_talks_logo {
+	position: relative;
+	top: 15px;
+	left: 5px;
+}
+
+.videoTitleWrapper {
+	width: 640px;
+}
+
+#videoTitle {
+	font-family: Georgia;
+	font-size: 32px;
+}
+
+.videoTitle:hover {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#subReviewWrapper {
+	position: absolute;
+}
+
+#reviewStars {
+	position: absolute;
+}
+
+#reviewSubmit {
+	position: absolute;
+	bottom: -110px;
+	font-family: 'comic sans ms';
+	color: #FFFFFF;
+	font-size: 14px;
+	padding: 10px 25px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #3866A3;
+	background: #067A0A;
+}
+
+#ratingStars {
+	position: absolute;
+}

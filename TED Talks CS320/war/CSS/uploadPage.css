@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+#page_border {
+	width: 100%;
+	height: 80px;
+	background: #095825;
+	margin: 0px;
+}
+
+#york_logo {
+	float: right;
+	width: 80px;
+	height: 80px;
+}
+
+#table {
+	text-align: center;
+}
+#myTable {
+	text-align: center;
+	poisition: absolute;
+}
